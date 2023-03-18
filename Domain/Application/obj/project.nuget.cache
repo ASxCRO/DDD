@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Px/zNIjPcND/HT/bTyASmYCKjBg+OFDhFSelbqbfZhj05yg94JhKeo8mXK6f1cTGvgWiQZEJMaUG6UHfTrlcsg==",
+  "success": true,
+  "projectFilePath": "/Users/antoniosupan/Projects/DDD/Domain/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/antoniosupan/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
+    "/Users/antoniosupan/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "/Users/antoniosupan/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
+    "/Users/antoniosupan/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/antoniosupan/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/antoniosupan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
